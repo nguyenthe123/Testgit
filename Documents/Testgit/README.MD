@@ -1,7 +1,7 @@
 
 *Ten toi la Chu Thi Minh Hang*
 0 >< f
-CTRL + h j k l u
+**CTRL + h j k l u**
 i o
 * File 1
 * File 2
