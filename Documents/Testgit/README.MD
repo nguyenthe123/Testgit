@@ -3,6 +3,7 @@
 0 >< f
 **CTRL + h j k l u**
 i o
+ggggg
 * File 1
 * File 2
 * File 3
